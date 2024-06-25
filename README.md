@@ -16,28 +16,28 @@
 * Train.ipynb [모델 학습 설명](#모델-학습-튜닝)
 
 # EDA
-[t](img/train.png)
-[struc](img/structure.png)
+![t](img/train.png)
+![struc](img/structure.png)
 
-[Length](img/Length.png)
+![Length](img/Length.png)
 
 ### 데이터별 워드클라우드
-[wor](img/wgal.png)
-[wor](img/wgue.png)
-[wor](img/whyub.png)
-[wor](img/wjig.png)
-[norm](img/wnorm.png)
+![wor](img/wgal.png)
+![wor](img/wgue.png)
+![wor](img/whyub.png)
+![wor](img/wjig.png)
+![norm](img/wnorm.png)
 
 ### 클래스 분포
-[class](img/classdis.png)
+![class](img/classdis.png)
 
-[box](img/box.png)
+![box](img/box.png)
 
-[l1](img/l1.png)
-[l2](img/l2.png)
-[l3](img/l3.png)
-[l4](img/l4.png)
-[l5](img/l5.png)
+![l1](img/l1.png)
+![l2](img/l2.png)
+![l3](img/l3.png)
+![l4](img/l4.png)
+![l5](img/l5.png)
 
 # 데이터 전처리
 
