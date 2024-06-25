@@ -13,7 +13,7 @@
 - $F1 Score = 2 * {recall * precision \over recall + precision}$
 
 # 파일 설명
-* EDA_DAta.ipynb [EDA 설명](#eda) [전처리 설명](#데이터-전처리)
+* EDA_DAta.ipynb [EDA 설명](#eda) / [전처리 설명](#데이터-전처리)
 * Project.ipynb [모델 선택 설명](#모델-선택)
 * Train.ipynb [모델 학습 설명](#모델-학습-튜닝)
 
