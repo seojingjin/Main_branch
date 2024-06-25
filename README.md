@@ -9,6 +9,7 @@
 
 # 평가 지표
 모델이 분류한 결과와 정답 간의 f1 score로 측정
+$F1 Score = 2 * {recall * precision} \over {recall + precision}$
 
 # 파일 설명
 * EDA_DAta.ipynb [EDA 설명](#eda) [전처리 설명](#데이터-전처리)
