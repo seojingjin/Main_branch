@@ -8,9 +8,9 @@
 * 테스트 데이터는 '협박', '갈취', '직장 내 괴롭힘', '기타 괴롭힘', '일반 대화' 등 5개 클래스 각 1백여 개로 구성. Index와 Conversation만 제공
 
 # 평가 지표
-모델이 분류한 결과와 정답 간의 f1 score로 측정\n
+모델이 분류한 결과와 정답 간의 f1 score로 측정
 
-$F1 Score = 2 * {recall * precision \over recall + precision}$
+- $F1 Score = 2 * {recall * precision \over recall + precision}$
 
 # 파일 설명
 * EDA_DAta.ipynb [EDA 설명](#eda) [전처리 설명](#데이터-전처리)
